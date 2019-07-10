@@ -1,8 +1,4 @@
-[logo]: ./logo.png
-
 # Image Descriptors Deep Learning Project
-
-![logo]
 
 ## Summary
 
