@@ -10,4 +10,4 @@ In the introduced project we were given a baseline approach for the creation of 
 
 ## This repo
 
-This repo includes both the paper-report and the jupyter notebook.
+This repo includes both the paper-report and the jupyter notebook with the Keras code.
