@@ -7,11 +7,7 @@
 
 ## Summary
 
-This repo outlines a proposed neural network model for generation of image descriptors for image representation in the Euclidean Space. With these descriptors, matching, veriﬁcation and retrieval tasks should be performed successfully. A project s
-
-## The project
-
-In the introduced project, we were given a baseline approach for the creation of image descriptors and were asked perform a series of improvements besed. Our approach should be outlined in a 4-page (paper-style) report and be accompanied by a notebook with our code written in Keras and Python.
+This repo outlines a proposed neural network model for generation of image descriptors for image representation in the Euclidean Space. With these descriptors, matching, veriﬁcation and retrieval tasks should be performed successfully. In the introduced project, we were given a baseline approach for the creation of image descriptors and were asked perform a series of improvements besed. Our approach should be outlined in a 4-page (paper-style) report and be accompanied by a notebook with our code written in Keras and Python.
 
 ## Structure
 
